@@ -1,0 +1,6 @@
+{
+  "prompt": "A realistic scene of a student sitting at a desk surrounded by piles of notes and books, intensely memorizing answers, while in front of them is a test paper with unfamiliar questions causing visible confusion, classroom setting, natural lighting, emotionally expressive, realistic photography style, no text, no diagrams, no labels",
+  "model": "DALL·E 3",
+  "concept": "overfitting",
+  "metaphor": "A student memorizing answers but failing new questions represents a model that memorizes training data but fails to generalize."
+}
