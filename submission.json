@@ -1,0 +1,7 @@
+{
+  "prompt": "A surreal, emotionally powerful image of a human figure standing in a polluted city, the body semi-transparent, showing lungs filled with thick black smoke and toxic particles, while the rest of the body appears faint and fragile, surrounded by dense gray smog, buildings barely visible in the background, cinematic lighting, high contrast, realistic yet artistic, conveying suffocation and environmental damage, no text, no charts, no graphs, no labels",
+  "model": "DALL·E 3",
+  "dataset_name": "OpenAQ Global Air Quality Dataset",
+  "dataset_url": "https://openaq.org/",
+  "insight": "In many cities, people breathe air that is consistently unsafe for human health."
+}
